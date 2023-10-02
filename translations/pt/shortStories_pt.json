@@ -1,0 +1,333 @@
+
+    [
+        {
+            "title": "Como limpar selos?",
+            "story": "Basta esfregá-los ligeiramente com uma escova macia, limpa, ou com um pedaço de algodão embebido em água de sabão. Depois, lavam-se em água fria e põem-se a secar.",
+            "statements": [
+                {
+                    "text": "Os selos devem ser limpos um pedaço de algodão embebido em água de sabão.",
+                    "evaluation": true
+                },
+                {
+                    "text": "Antes de por a secar, os selos devem ser lavados em água fria.",
+                    "evaluation": true
+                },
+                {
+                    "text": "Os selos devem ser limpos com álcool.",
+                    "evaluation": false
+                },
+                {
+                    "text": "Antes de por a secar, os selos devem ser lavados em água quente.",
+                    "evaluation": false
+                }
+            ]
+        },
+        {
+            "title": "História dos CTT",
+            "story": "Com quase 500 anos de vida, o nascimento dos CTT remonta a 1520, altura em que a epopeia dos Descobrimentos colocou Portugal no centro do mundo, obrigando a Coroa, a nobreza e a burguesia a contactos com outros Estados e mercadores.",
+            "statements": [
+                {
+                    "text": "O nascimento dos CTT remonta a 1520.",
+                    "evaluation": true
+                },
+                {
+                    "text": "A época dos Descobrimentos colocou Portugal no centro do mundo.",
+                    "evaluation": true
+                },
+                {
+                    "text": "O nascimento dos CTT remonta a 1974.",
+                    "evaluation": false
+                },
+                {
+                    "text": "Os CTT têm 400 anos de vida.",
+                    "evaluation": false
+                }
+            ]
+        },
+        {
+            "title": "Eletrodomésticos ecológicos",
+            "story": "Quando comprar electrodomésticos, prefira aparelhos com etiqueta energética de classe A, A+ ou A++, pois têm um consumo de energia bastante inferior aos modelos de classes mais baixas.",
+            "statements": [
+                {
+                    "text": "Os electrodomésticos A, A+ ou A++ têm um consumo energético mais baixo.",
+                    "evaluation": true
+                },
+                {
+                    "text": "As classes A, A+ ou A++ têm um consumo de energia bastante inferior aos modelos de classes mais baixas.",
+                    "evaluation": true
+                },
+                {
+                    "text": "Os electrodomésticos B, B+ e B++ têm um consumo energético mais baixo.",
+                    "evaluation": false
+                },
+                {
+                    "text": "A etiqueta energética dos electrodomésticos não é importante, todas as classes gastam a mesma energia.",
+                    "evaluation": false
+                }
+            ]
+        },
+        {
+            "title": "Modere o aquecimento",
+            "story": "No Inverno, o aquecimento absorve cerca de 25% dos custos com a energia doméstica. Aprenda a moderar esta despesa ao não aquecer mais do que o necessário.",
+            "statements": [
+                {
+                    "text": "No Inverno, o aquecimento absorve cerca de 25% dos custos com a energia doméstica.",
+                    "evaluation": true
+                },
+                {
+                    "text": "Para moderar a despesa com o aquecimento, não devemos aquecer mais do que o necessário.",
+                    "evaluation": true
+                },
+                {
+                    "text": "No Inverno, o aquecimento absorve cerca de 35% dos custos com a energia doméstica.",
+                    "evaluation": false
+                },
+                {
+                    "text": "Para moderar a despesa com o aquecimento, só devemos aquecer a casa à noite",
+                    "evaluation": false
+                }
+            ]
+        },
+        {
+            "title": "Acabe com o stand-by",
+            "story": "É confortável carregar no botão do comando da televisão e esta desligar-se, mas é uma fonte de consumo inesgotável e, ao contrário do que pensa, não é insignificante. O consumo anual médio em stand-by estimado para cada lar corresponde a um peso de cerca de 5,2% na fatura energética anual.",
+            "statements": [
+                {
+                    "text": "O consumo anual médio em stand-by estimado para cada lar corresponde a um peso de cerca de 5,2% na fatura energética anual.",
+                    "evaluation": true
+                },
+                {
+                    "text": "Deixar a televisão em stand-by é uma fonte de consumo energético inesgotável.",
+                    "evaluation": true
+                },
+                {
+                    "text": "O consumo anual médio em stand-by estimado para cada lar corresponde a um peso de cerca de 10,4% na fatura energética anual.",
+                    "evaluation": false
+                },
+                {
+                    "text": "Deixar a televisão em stand-by é uma fonte de consumo energético insignificante.",
+                    "evaluation": false
+                }
+            ]
+        },
+        {
+            "title": "Troque as lâmpadas",
+            "story": "Estima-se que a iluminação seja responsável por cerca de 10% da fatura de energia. Esta situação deve-se, em grande parte, à utilização de lâmpadas incandescentes. Se é o seu caso, troque-as por lâmpadas fluorescentes compactas e tenha uma iluminação mais eficiente e amiga do ambiente.",
+            "statements": [
+                {
+                    "text": "A iluminação é responsável por cerca de 10% da fatura de energia.",
+                    "evaluation": true
+                },
+                {
+                    "text": "As lâmpadas fluorescentes são mais eficientes que as lâmpadas incandescentes.",
+                    "evaluation": true
+                },
+                {
+                    "text": "A iluminação é responsável por cerca de 20% da fatura de energia.",
+                    "evaluation": false
+                },
+                {
+                    "text": "As lâmpadas incandescentes são mais eficientes que as lâmpadas fluorescentes.",
+                    "evaluation": false
+                }
+            ]
+        },
+        {
+            "title": "Lei contra maus-tratos em animais",
+            "story": "A legislação, publicada em Diário da República a 29 de agosto, refere que 'quem, sem motivo legítimo, infligir dor, sofrimento ou quaisquer outros maus tratos físicos a um animal de companhia é punido com pena de prisão até um ano ou com pena de multa até 120 dias'.",
+            "statements": [
+                {
+                    "text": "A pena de multa por maus tratos em animais é até 120 dias.",
+                    "evaluation": true
+                },
+                {
+                    "text": "A legislação foi publicada em Diário da República a 29 de Agosto.",
+                    "evaluation": true
+                },
+                {
+                    "text": "A pena de multa por maus tratos em animais é até 130 dias.",
+                    "evaluation": false
+                },
+                {
+                    "text": "A legislação foi publicada em Diário da República a 29 de Abril.",
+                    "evaluation": false
+                }
+            ]
+        },
+        {
+            "title": "Infecções virais",
+            "story": "Quando os microrganismos invadem o nosso corpo, aderem à célula e multiplicam ocorre uma infecção. Ou seja, há um desequilíbrio entre as defesas do nosso organismo e o agente invasor que pode ser uma bacteria, um fungo, um parasita ou mesmo um vírus. Neste último caso dar-se-á uma infecção viral.",
+            "statements": [
+                {
+                    "text": "O agente invasor pode ser uma bactéria, um fungo, um parasita ou mesmo um vírus.",
+                    "evaluation": true
+                },
+                {
+                    "text": "Há um desequilíbrio entre as defesas do nosso organismo e o agente invasor.",
+                    "evaluation": true
+                },
+                {
+                    "text": "O agente invasor pode ser uma bactéria, um mosquito, uma aranha ou mesmo um vírus.",
+                    "evaluation": false
+                },
+                {
+                    "text": "Há um equilíbrio entre as defesas do nosso organismo e o agente invasor.",
+                    "evaluation": false
+                }
+            ]
+        },
+        {
+            "title": "A crise em Portuga",
+            "story": "Em 2015, Portugal conhece uma grave crise económica, social, política e moral, sem ter resolvido a sua crise financeira. A bonança dos juros é internacional e conjuntural, e pode acabar amanhã. No entanto, não houve qualquer transformação estrutural da economia portuguesa. Pelo contrário, houve destruição dos factores “económicos” da sociedade com a devastação da classe média.",
+            "statements": [
+                {
+                    "text": "Houve destruição dos factores “económicos” da sociedade com a devastação da classe média.",
+                    "evaluation": true
+                },
+                {
+                    "text": "A bonança dos juros é internacional e conjuntural.",
+                    "evaluation": true
+                },
+                {
+                    "text": "Houve destruição dos factores “económicos” da sociedade com a devastação da classe alta.",
+                    "evaluation": false
+                },
+                {
+                    "text": "A bonança dos juros é europeia e conjuntural.",
+                    "evaluation": false
+                }
+            ]
+        },
+        {
+            "title": "Chá para tratar a má digestão e combater os gases",
+            "story": "O chá de Camomila com Erva-doce e raiz de alteia possui uma ação que reduz a inflamação e acalma o estômago, ajudando também a reduzir os gases, a acidez no estômago e a regularizar o intestino. Basta juntar 500 ml de água fervida à mistura de ervas e tapar. Deixar repousar durante cerca de 5 minutos e coar antes de beber. Este chá deve ser bebido 2 a 3 vezes por dia ou sempre que for necessário.",
+            "statements": [
+                {
+                    "text": "É necessário deixar repousar o chá durante 5 minutos e coar antes de beber.",
+                    "evaluation": true
+                },
+                {
+                    "text": "O chá de camomila com erva-doce e raiz de alteia é bom para tratar a má digestão e combater os gases.",
+                    "evaluation": true
+                },
+                {
+                    "text": "O chá de camomila com frutos vermelhos e menta é bom para tratar a má digestão e combater os gases.",
+                    "evaluation": false
+                },
+                {
+                    "text": "É necessário deixar repousar o chá durante 7 minutos e não necessita de coar antes de beber.",
+                    "evaluation": false
+                }
+            ]
+        },
+        {
+            "title": "A importância da atividade física diária",
+            "story": "Ter atividade física suficiente, especialmente quando combinada com alimentação saudável, pode ajudar a reduzir o risco de algumas doenças como diabetes, osteoporose, doença cardíaca, e certos tipos de cancro. A atividade física diária também pode ajudar a diminuir a pressão sanguínea e colesterol, assim como reduzir o risco de obesidade e sintomas de ansiedade e depressão.",
+            "statements": [
+                {
+                    "text": "Combinar atividade física com alimentação saudável pode ajudar a reduzir o risco de algumas doenças, como a osteoporose.",
+                    "evaluation": true
+                },
+                {
+                    "text": "A atividade física diária ajuda a diminuir a pressão sanguínea e o colesterol.",
+                    "evaluation": true
+                },
+                {
+                    "text": "A atividade física juntamente com uma alimentação saudável pode contribuir para o desenvolvimento de algumas doenças, como a osteoporose.",
+                    "evaluation": false
+                },
+                {
+                    "text": "O aumento da pressão sanguínea e do colesterol pode ser provocado pela atividade física.",
+                    "evaluation": false
+                }
+            ]
+        },
+        {
+            "title": "Prazo de Validade",
+            "story": "O prazo de validade representa o tempo médio que um alimento demora para se deteriorar. No final do prazo de validade, o produto desenvolveu alterações nas suas características organolépticas - sabor, aroma, textura, aparência - que fazem com que deixe de ser aceitável ou apelativo. Estas alterações podem ter origem microbiológica, química ou física.",
+            "statements": [
+                {
+                    "text": "O prazo de validade representa o tempo médio que um alimento demora para se deteriorar",
+                    "evaluation": true
+                },
+                {
+                    "text": "As alterações nas características organolépticas são o sabor, aroma, textura e aparência.",
+                    "evaluation": true
+                },
+                {
+                    "text": "O prazo de validade representa o tempo máximo que um alimento demora para se deteriorar.",
+                    "evaluation": false
+                },
+                {
+                    "text": "As alterações nas características organolépticas são o sabor, temperatura, textura e aroma.",
+                    "evaluation": false
+                }
+            ]
+        },
+        {
+            "title": "Consultas de Rotina",
+            "story": "Consultas de rotina devem ser preferencialmente repetidas anualmente, pois deverá ser o suficiente para não correr riscos. Contudo, convém ter em conta que a idade tem importância, e a partir dos 40/50 anos torna-se cada vez mais importante que o nosso estado de saúde seja revisto, pois é nestas idades que algumas doenças como o cancro se tendem a manifestar em maior escala.",
+            "statements": [
+                {
+                    "text": "As consultas de rotina devem ser repetidas anualmente.",
+                    "evaluation": true
+                },
+                {
+                    "text": "A partir dos 40/50 anos torna-se cada vez mais importante que o nosso estado de saúde seja revisto.",
+                    "evaluation": true
+                },
+                {
+                    "text": "As consultas de rotina devem ser repetidas de 3 em 3 meses.",
+                    "evaluation": false
+                },
+                {
+                    "text": "A partir dos 30/40 anos torna-se cada vez mais importante que o nosso estado de saúde seja revisto.",
+                    "evaluation": false
+                }
+            ]
+        },
+        {
+            "title": "A Musicoterapia",
+            "story": "A musicoterapia destina-se a todas as pessoas,não se limitando a áreas de intervenção amplamente reconhecidas pela investigação, como é o caso das perturbações do espectro autista e outras do desenvolvimento, deficiência física e cognitiva. A musicoterapia, para além das intervenções específicas na área da saúde mental para pessoas que tem dificuldades num contexto verbal de terapia, permite a manutenção do bem-estar para pessoas saudáveis, bem como o envolvimento activo e mobilizador para pessoas que padecem de doenças crónicas.",
+            "statements": [
+                {
+                    "text": "A musicoterapia destina-se a todas as pessoas.",
+                    "evaluation": true
+                },
+                {
+                    "text": "A musicoteparia não se limita às perturbações do espectro autista e do desenvolvimento.",
+                    "evaluation": true
+                },
+                {
+                    "text": "A musicoterapia destina-se apenas a crianças e jovens.",
+                    "evaluation": false
+                },
+                {
+                    "text": "A musicoterapia é utilizada exclusivamente com pessoas que padecem de doenças crónicas.",
+                    "evaluation": false
+                }
+            ]
+        },
+        {
+            "title": "Higiene oral",
+            "story": "Uma boa Higiene oral resulta numa boca que cheire bem e pareça saudável. Isto quer dizer que: os seus dentes estão limpos e sem restos alimentares; as suas gengivas têm uma cor rosa pálido e não doem nem sangram quando usa o fio dentário; o mau-hálito não é um problema constante.",
+            "statements": [
+                {
+                    "text": "Numa boa higiene oral, o mau-hálito não é um problema constante.",
+                    "evaluation": true
+                },
+                {
+                    "text": "As gengivas não devem sangrar ao utilizar o fio dentário.",
+                    "evaluation": true
+                },
+                {
+                    "text": "O mau-hálito é sinal de uma boa higiene oral.",
+                    "evaluation": false
+                },
+                {
+                    "text": "É normal com a utilização do fio dentário as gengivas sangrarem.",
+                    "evaluation": false
+                }
+            ]
+        }
+    ]

@@ -1,0 +1,333 @@
+[
+    {
+        "title": "How to clean stamps",
+        "story": "Simply rub them lightly with a soft, clean brush, or with a piece of cotton soaked in soapy water. Then, rinse them in cold water and let them dry.",
+        "statements": [
+            {
+                "text": "Stamps should be cleaned with a piece of cotton soaked in soapy water.",
+                "evaluation": true
+            },
+            {
+                "text": "Before drying, stamps should be rinsed in cold water.",
+                "evaluation": true
+            },
+            {
+                "text": "Stamps should be cleaned with alcohol.",
+                "evaluation": false
+            },
+            {
+                "text": "Before drying, stamps should be rinsed in hot water.",
+                "evaluation": false
+            }
+        ]
+    },
+    {
+        "title": "History of CTT (Portuguese Postal Service)",
+        "story": "With almost 500 years of existence, the birth of CTT dates back to 1520, a time when the epic of the Discoveries placed Portugal in the center of the world, leading the Crown, nobility, and bourgeoisie to have contacts with other states and merchants.",
+        "statements": [
+            {
+                "text": "The birth of CTT dates back to 1520",
+                "evaluation": true
+            },
+            {
+                "text": "The era of the Discoveries placed Portugal in the center of the world.",
+                "evaluation": true
+            },
+            {
+                "text": "The birth of CTT dates back to 1974.",
+                "evaluation": false
+            },
+            {
+                "text": "CTT has 400 years of existence.",
+                "evaluation": false
+            }
+        ]
+    },
+    {
+        "title": "Eco-friendly appliances",
+        "story": "When buying appliances, prefer those with an energy label of class A, A+, or A++, as they have much lower energy consumption than models with lower classes.",
+        "statements": [
+            {
+                "text": "Appliances labeled A, A+, or A++ have lower energy consumption.",
+                "evaluation": true
+            },
+            {
+                "text": "Classes A, A+, or A++ have much lower energy consumption than models with lower classes.",
+                "evaluation": true
+            },
+            {
+                "text": "Appliances labeled B, B+, and B++ have lower energy consumption.",
+                "evaluation": false
+            },
+            {
+                "text": "The energy label of appliances is not important, all classes consume the same energy.",
+                "evaluation": false
+            }
+        ]
+    },
+    {
+        "title": "Moderate heating",
+        "story": " In winter, heating accounts for about 25% of household energy costs. Learn to moderate this expense by not heating more than necessary.",
+        "statements": [
+            {
+                "text": "In winter, heating accounts for about 25% of household energy costs.",
+                "evaluation": true
+            },
+            {
+                "text": "To moderate heating expenses, one should not heat more than necessary.",
+                "evaluation": true
+            },
+            {
+                "text": "In winter, heating accounts for about 35% of household energy costs.",
+                "evaluation": false
+            },
+            {
+                "text": "To moderate heating expenses, one should only heat the house at night.",
+                "evaluation": false
+            }
+        ]
+    },
+    {
+        "title": "Eliminate standby mode",
+        "story": "It's comfortable to press the TV remote button and have it turn off, but it is an inexhaustible source of consumption and, contrary to what you think, it is not insignificant. The estimated average annual standby consumption for each household corresponds to about 5.2% of the annual energy bill.",
+        "statements": [
+            {
+                "text": "The estimated average annual standby consumption for each household corresponds to about 5.2% of the annual energy bill.",
+                "evaluation": true
+            },
+            {
+                "text": "Leaving the television in standby mode is an inexhaustible source of energy consumption.",
+                "evaluation": true
+            },
+            {
+                "text": "The estimated average annual standby consumption for each household corresponds to about 10.4% of the annual energy bill.",
+                "evaluation": false
+            },
+            {
+                "text": "Leaving the television in standby mode is an insignificant source of energy consumption.",
+                "evaluation": false
+            }
+        ]
+    },
+    {
+        "title": "Replace the light bulbs",
+        "story": "Lighting is estimated to account for about 10% of the energy bill. This situation is mainly due to the use of incandescent light bulbs. If this is your case, replace them with compact fluorescent light bulbs and have more efficient and environmentally friendly lighting.",
+        "statements": [
+            {
+                "text": "Lighting accounts for about 10% of the energy bill.",
+                "evaluation": true
+            },
+            {
+                "text": "Fluorescent light bulbs are more efficient than incandescent light bulbs.",
+                "evaluation": true
+            },
+            {
+                "text": "Lighting accounts for about 20% of the energy bill.",
+                "evaluation": false
+            },
+            {
+                "text": "Incandescent light bulbs are more efficient than fluorescent light bulbs.",
+                "evaluation": false
+            }
+        ]
+    },
+    {
+        "title": "Law against animal abuse",
+        "story": "The legislation, published in the Diário da República on August 29, states that 'anyone who, without a legitimate reason, inflicts pain, suffering, or any other physical abuse on a companion animal is punishable by imprisonment for up to one year or a fine of up to 120 days.'",
+        "statements": [
+            {
+                "text": "The fine for animal abuse is up to 120 days.",
+                "evaluation": true
+            },
+            {
+                "text": "The legislation was published in the Diário da República on August 29.",
+                "evaluation": true
+            },
+            {
+                "text": "The fine for animal abuse is up to 130 days.",
+                "evaluation": false
+            },
+            {
+                "text": "The legislation was published in the Diário da República on April 29.",
+                "evaluation": false
+            }
+        ]
+    },
+    {
+        "title": "Viral infections",
+        "story": "When microorganisms invade our body, adhere to the cell, and multiply, an infection occurs. That is, there is an imbalance between our body's defenses and the invading agent, which can be a bacterium, a fungus, a parasite, or even a virus. In the latter case, a viral infection occurs.",
+        "statements": [
+            {
+                "text": "The invading agent can be a bacterium, a fungus, a parasite, or even a virus.",
+                "evaluation": true
+            },
+            {
+                "text": "There is an imbalance between our body's defenses and the invading agent.",
+                "evaluation": true
+            },
+            {
+                "text": "The invading agent can be a bacterium, a mosquito, a spider, or even a virus.",
+                "evaluation": false
+            },
+            {
+                "text": "There is a balance between our body's defenses and the invading agent.",
+                "evaluation": false
+            }
+        ]
+    },
+    {
+        "title": "The crisis in Portugal",
+        "story": "In 2015, Portugal experienced a serious economic, social, political, and moral crisis, without having solved its financial crisis. The calm in interest rates is international and conjunctural, and it can end tomorrow. However, there was no structural transformation of the Portuguese economy. On the contrary, there was a destruction of the 'economic' factors of society with the devastation of the middle class.",
+        "statements": [
+            {
+                "text": "There was a destruction of the 'economic' factors of society with the devastation of the middle class.",
+                "evaluation": true
+            },
+            {
+                "text": "The calm in interest rates is international and conjunctural.",
+                "evaluation": true
+            },
+            {
+                "text": "There was a destruction of the 'economic' factors of society with the devastation of the upper class.",
+                "evaluation": false
+            },
+            {
+                "text": "The calm in interest rates is European and conjunctural.",
+                "evaluation": false
+            }
+        ]
+    },
+    {
+        "title": "Tea to treat indigestion and combat gas",
+        "story": "The tea of Chamomile with Fennel and marshmallow root has an action that reduces inflammation and calms the stomach, also helping to reduce gas, stomach acidity, and regulate the intestine. Just add 500 ml of boiled water to the herbal mixture and cover it. Let it steep for about 5 minutes and strain before drinking. This tea should be consumed 2 to 3 times a day or whenever necessary.",
+        "statements": [
+            {
+                "text": "It is necessary to let the tea steep for 5 minutes and strain before drinking.",
+                "evaluation": true
+            },
+            {
+                "text": "The chamomile tea with fennel and marshmallow root is good for treating indigestion and combating gas.",
+                "evaluation": true
+            },
+            {
+                "text": "The tea of chamomile with red fruits and mint is good for treating indigestion and combating gas.",
+                "evaluation": false
+            },
+            {
+                "text": "It is necessary to let the tea steep for 7 minutes and there is no need to strain it before drinking.",
+                "evaluation": false
+            }
+        ]
+    },
+    {
+        "title": "The importance of daily physical activity",
+        "story": "Having enough physical activity, especially when combined with a healthy diet, can help reduce the risk of some diseases such as diabetes, osteoporosis, heart disease, and certain types of cancer. Daily physical activity can also help lower blood pressure and cholesterol, as well as reduce the risk of obesity and symptoms of anxiety and depression.",
+        "statements": [
+            {
+                "text": "Combining physical activity with a healthy diet can help reduce the risk of some diseases, such as osteoporosis.",
+                "evaluation": true
+            },
+            {
+                "text": "Daily physical activity helps lower blood pressure and cholesterol.",
+                "evaluation": true
+            },
+            {
+                "text": "Combining physical activity with a healthy diet can contribute to the development of some diseases, such as osteoporosis.",
+                "evaluation": false
+            },
+            {
+                "text": "The increase in blood pressure and cholesterol can be caused by physical activity.",
+                "evaluation": false
+            }
+        ]
+    },
+    {
+        "title": "Expiration date",
+        "story": "The expiration date represents the average time it takes for a food to deteriorate. At the end of the expiration date, the product has developed changes in its organoleptic characteristics - taste, aroma, texture, appearance - that make it no longer acceptable or appealing. These changes can have a microbiological, chemical, or physical origin.",
+        "statements": [
+            {
+                "text": "The expiration date represents the average time it takes for a food to deteriorate.",
+                "evaluation": true
+            },
+            {
+                "text": "The changes in organoleptic characteristics are taste, aroma, texture, and appearance.",
+                "evaluation": true
+            },
+            {
+                "text": "The expiration date represents the maximum time it takes for a food to deteriorate.",
+                "evaluation": false
+            },
+            {
+                "text": "The changes in organoleptic characteristics are taste, temperature, texture, and aroma.",
+                "evaluation": false
+            }
+        ]
+    },
+    {
+        "title": "Routine Checkups",
+        "story": "Routine checkups should preferably be repeated annually, as it should be enough to avoid risks. However, it is worth considering that age is important, and from the ages of 40/50 onwards, it becomes increasingly important for our health to be reviewed, as it is at these ages that some diseases such as cancer tend to manifest on a larger scale.",
+        "statements": [
+            {
+                "text": "Routine checkups should be repeated annually.",
+                "evaluation": true
+            },
+            {
+                "text": "From the ages of 40/50 onwards, it becomes increasingly important for our health to be reviewed.",
+                "evaluation": true
+            },
+            {
+                "text": "Routine checkups should be repeated every 3 months.",
+                "evaluation": false
+            },
+            {
+                "text": "From the ages of 30/40 onwards, it becomes increasingly important for our health to be reviewed.",
+                "evaluation": false
+            }
+        ]
+    },
+    {
+        "title": "Music Therapy",
+        "story": "Music therapy is intended for everyone, not limited to areas widely recognized by research, such as autism spectrum disorders and other developmental, physical, and cognitive disabilities. Music therapy, in addition to specific interventions in the area of mental health for people who have difficulties in a verbal therapeutic context, allows the maintenance of well-being for healthy individuals, as well as active and mobilizing engagement for people suffering from chronic illnesses.",
+        "statements": [
+            {
+                "text": "Music therapy is intended for everyone.",
+                "evaluation": true
+            },
+            {
+                "text": "Music therapy is not limited to autism spectrum disorders and developmental disorders.",
+                "evaluation": true
+            },
+            {
+                "text": "Music therapy is intended only for children and young people.",
+                "evaluation": false
+            },
+            {
+                "text": "Music therapy is used exclusively for people suffering from chronic illnesses.",
+                "evaluation": false
+            }
+        ]
+    },
+    {
+        "title": "Oral Hygiene",
+        "story": "Good oral hygiene results in a mouth that smells good and looks healthy. This means that your teeth are clean and free of food residues; your gums have a pale pink color and do not hurt or bleed when using dental floss; bad breath is not a constant problem.",
+        "statements": [
+            {
+                "text": "In good oral hygiene, bad breath is not a constant problem.",
+                "evaluation": true
+            },
+            {
+                "text": "Gums should not bleed when using dental floss.",
+                "evaluation": true
+            },
+            {
+                "text": "Bad breath is a sign of good oral hygiene.",
+                "evaluation": false
+            },
+            {
+                "text": "It is normal for gums to bleed when using dental floss.",
+                "evaluation": false
+            }
+        ]
+    }
+
+]

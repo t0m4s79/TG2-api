@@ -1,0 +1,112 @@
+{
+    "implicit": [
+        {
+            "steps": [
+                "Ficar transpirado depois de uma corrida.",
+                "Despir-se para entrar na banheira.",
+                "Temperar a água.",
+                "Lavar o cabelo e ensaboar o corpo.",
+                "Depois de tirar todo o sabão, secar-se com uma toalha.",
+                "Vestir-se."
+            ]
+        },
+        {
+            "steps": [
+                "Colocar uma panela com água ao lume.",
+                "Descascar batatas, cebolas e cenouras e pô-las a cozer na água.",
+                "Quando as couves estiverem cozidas, a sopa está pronta.",
+                "Temperar com sal.",
+                "Passar a sopa com a varinha mágica.",
+                "Servir com um fio de azeite."
+            ]
+        },
+        {
+            "steps": [
+                "Toca o despertador.",
+                "Levantar-se de manhã.",
+                "Sair de casa.",
+                "Ir comprar leite.",
+                "No supermercado escolher o leite para levar para casa.",
+                "Preparar torradas com leite para o pequeno-almoço."
+            ]
+        },
+        {
+            "steps": [
+                "Ficar com febre.",
+                "Tirar a temperatura e ver que tem 38 graus.",
+                "Ir ao médico.",
+                "É receitado um antibiótico.",
+                "Ir à farmácia.",
+                "Seguir as indicações do farmacêutico."
+            ]
+        },
+        {
+            "steps": [
+                "Ir comprar pão.",
+                "Chegar à padaria e viu que não tinha dinheiro.",
+                "Voltar a casa para buscar a carteira.",
+                "Ir ao multibanco levantar dinheiro.",
+                "Preparar café e chá.",
+                "Fazer um lanche para os amigos."
+            ]
+        }
+    ],
+    "explicit": [
+        {
+            "action": "Para fazer arroz",
+            "steps": [
+                "Pegar na panela.",
+                "Pôr azeite na panela.",
+                "Pôr cebola na panela.",
+                "Acender o lume.",
+                "Pôr água na panela.",
+                "Pôr o arroz na panela."
+            ]
+        },
+        {
+            "action": "Para tomar banho",
+            "steps": [
+                "Despir-se.",
+                "Entrar na banheira.",
+                "Temperar a água.",
+                "Molhar o corpo.",
+                "Lavar-se com sabonete.",
+                "Secar-se com uma toalha."
+            ]
+        },
+        {
+            "action": "Para semear batatas",
+            "steps": [
+                "Alisar a terra.",
+                "Adubar a terra.",
+                "Cavar a terra.",
+                "Atirar a semente.",
+                "Tapar a semente com a terra.",
+                "Regar."
+            ]
+        },
+        {
+            "action": "Para lavar os dentes",
+            "steps": [
+                "Pegar na escova de dentes.",
+                "Por pasta de dentes na escova.",
+                "Escovar os dentes.",
+                "Lavar a boca com água.",
+                "Lavar a boca com elixir.",
+                "Lavar a escova de dentes."
+            ]
+        },
+        {
+            "action": "Para se vestir",
+            "steps": [
+                "Escolher a roupa.",
+                "Vestir a roupa interior.",
+                "Vestir as calças e a camisola.",
+                "Calçar as meias.",
+                "PCalçar os sapatos.",
+                "Vestir o casaco."
+            ]
+        }
+    ],
+    "instructions": "Por favor, indique a ordem pela qual os passos que se seguem\n devem ser executados."
+}

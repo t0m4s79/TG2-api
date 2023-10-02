@@ -1,0 +1,449 @@
+[
+    {
+        "title": "Dengue Prevention",
+        "story": "The best way to prevent dengue is to combat the accumulation of water, which is a breeding ground for the mosquito that transmits the disease. To do this, it is important not to allow water to accumulate in cans, containers, plastic cups, soda caps, old tires, plant pots, bottles, drums, and trash cans, among others.",
+        "statements": [
+            { 
+                "text": "The best way to prevent dengue is to combat the accumulation of water.", 
+                "evaluation": true 
+            },
+            { 
+                "text": "To prevent dengue, it is important not to allow water to accumulate in cans, containers, plastic cups, and soda caps.", 
+                "evaluation": true 
+            },
+            { 
+                "text": "To prevent dengue, it is important not to allow water to accumulate in old tires, plant pots, bottles, drums, and trash cans.", 
+                "evaluation": true 
+            },
+            { 
+                "text": "Dry areas are suitable for the breeding of the dengue-transmitting mosquito.", 
+                "evaluation": false },
+            { 
+                "text": "Dengue cannot be prevented.", 
+                "evaluation": false },
+            { 
+                "text": "Dengue is transmitted by a fly.", 
+                "evaluation": false 
+            }
+        ]
+    },
+    {
+        "title": "Importance of the Stamp",
+        "story": "The postage stamp is a vehicle of enormous cultural and educational power, a factor of dialogue and interaction between individuals, organizations, and even countries. Produced in the millions, it reaches an incalculable number of people from all social classes, from all countries, thus being an excellent means of dissemination.",
+        "statements": [
+            {
+                "text": "The postage stamp is a vehicle of enormous cultural and educational power.",
+                "evaluation": true
+                },
+                {
+                "text": "The stamp is an excellent means of dissemination.",
+                "evaluation": true
+                },
+                {
+                "text": "The stamp reaches an incalculable number of people from all social classes, from all countries.",
+                "evaluation": true
+                },
+                {
+                "text": "The use of the stamp has no impact on society.",
+                "evaluation": false
+                },
+                {
+                "text": "The postage stamp is responsible for conflicts between various countries.",
+                "evaluation": false
+                },
+                {
+                "text": "The postage stamp is used only by the upper social classes.",
+                "evaluation": false
+                }
+        ]
+    },
+    {
+        "title": "Fashion in the Modern Age",
+        "story": "The Modern Age was the era of globalization when the navigator Vasco da Gama made his voyage to the Indies for negotiations between two commercial points. During this time, the nobles refreshed their appearance with the use of lace and satin. Fabrics such as linen, wool, and cotton were in vogue. Sewing machines began to operate at full steam.",
+        "statements": [
+            {
+                "text": "The Modern Age was the era of globalization.",
+                "evaluation": true
+                },
+                {
+                "text": "In the Modern Age, the nobles refreshed their appearance with the use of lace and satin.",
+                "evaluation": true
+                },
+                {
+                "text": "In the Modern Age, fabrics such as linen, wool, and cotton were in vogue.",
+                "evaluation": true
+                },
+                {
+                "text": "Sewing machines were no longer used in the Modern Age.",
+                "evaluation": false
+                },
+                {
+                "text": "In the Modern Age, Vasco da Gama made his voyage to Brazil.",
+                "evaluation": false
+                },
+                {
+                "text": "In the Modern Age, fabrics such as polyester, cashmere, and viscose were in vogue.",
+                "evaluation": false
+                }
+        ]
+    },
+    {
+        "title": "Be Careful with the Refrigerator",
+        "story": "The refrigerator is an indispensable appliance at home, but it is always on. To avoid it becoming a consumption monster, there are some precautions you can take, such as not placing it near a heat source or in a sunny spot. Adjust the thermostat between 4 and 7 degrees Celsius. Regularly defrost the refrigerator as ice increases the consumption of your appliance.",
+        "statements": [
+            {
+                "text": "We should not place the refrigerator near a heat source or in a sunny spot.",
+                "evaluation": true
+                },
+                {
+                "text": "We should adjust the thermostat of the refrigerator between 4 and 7 degrees Celsius.",
+                "evaluation": true
+                },
+                {
+                "text": "Ice increases the energy consumption of the refrigerator.",
+                "evaluation": true
+                },
+                {
+                "text": "There is nothing we can do to reduce the energy consumption of the refrigerator.",
+                "evaluation": false
+                },
+                {
+                "text": "We should adjust the thermostat of the refrigerator between 5 and 9 degrees Celsius.",
+                "evaluation": false
+                },
+                {
+                "text": "Ice does not affect the energy consumption of the refrigerator.",
+                "evaluation": false
+                }
+        ]
+    },
+    {
+        "title": "Control Your Electric Oven",
+        "story": "Recent ovens consume much less energy than old ones, as they come with a ventilation system. To save energy, avoid preheating since ovens heat up quickly, and the benefit is minimal. It is also important to use the broiling function only when strictly necessary, as the resistance consumes up to twice as much energy.",
+        "statements": [
+            {
+                "text": "Recent ovens consume much less energy than old ones.",
+                "evaluation": true
+                },
+                {
+                "text": "We should avoid preheating the oven to save energy.",
+                "evaluation": true
+                },
+                {
+                "text": "The broiling function of ovens consumes up to twice as much energy.",
+                "evaluation": true
+                },
+                {
+                "text": "Recent ovens consume much more energy than old ones.",
+                "evaluation": false
+                },
+                {
+                "text": "It is beneficial to use the preheating function of the oven as it helps save energy.",
+                "evaluation": false
+                },
+                {
+                "text": "The broiling function of ovens consumes less energy.",
+                "evaluation": false
+                }
+        ]
+    },
+    {
+        "title": "Turn Off the Electric Stove",
+        "story": "If you use an electric stove, try to cook with appropriate, flat, and undistorted pots. Otherwise, consumption may increase by up to 50%. Another trick is to turn off the electric burners about 5 minutes before the longer meals are finished since they remain hot for some time.",
+        "statements": [
+            {
+                "text": "If you do not use appropriate pots, the consumption of your electric stove may increase by up to 50%.",
+                "evaluation": true
+                },
+                {
+                "text": "To save on the consumption of the electric stove, you should turn off the burners about 5 minutes before the longer meals are finished.",
+                "evaluation": true
+                },
+                {
+                "text": "The pots used on the electric stove should be flat and undistorted.",
+                "evaluation": true
+                },
+                {
+                "text": "If you do not use appropriate pots, the consumption of your electric stove may increase by up to 30%.",
+                "evaluation": false
+                },
+                {
+                "text": "To save on the consumption of the electric stove, you should turn off the burners about 15 minutes before the longer meals are finished.",
+                "evaluation": false
+                },
+                {
+                "text": "It is not important for the pots used on the electric stove to be undistorted.",
+                "evaluation": false
+                }
+        ]
+    },
+    {
+        "title": "Washing Machine",
+        "story": "The electricity consumption of a washing machine greatly depends on the selected temperature. Considering the good performance of new appliances, there is rarely a need to use programs at 90-95°C. Wait until you have enough clothes for a full load instead of doing two half loads. A full machine consumes almost as much as a half load.",
+        "statements": [
+            {
+                "text": "The electricity consumption of a washing machine greatly depends on the selected temperature.",
+                "evaluation": true
+                },
+                
+                {
+                "text": "New washing machines rarely need to use programs at 90-95°C.",
+                "evaluation": true
+                },
+                {
+                "text": "A full machine consumes almost as much energy as a half load.",
+                "evaluation": true
+                },
+                {
+                "text": "The electricity consumption of a washing machine does not depend on the selected temperature.",
+                "evaluation": false
+                },
+                {
+                "text": "In new washing machines, it is best to use programs at 90-95°C.",
+                "evaluation": false
+                },
+                {
+                "text": "A full machine consumes less energy than a half load.",
+                "evaluation": false
+                }
+        ]
+    },
+    {
+        "title": "Five Tips for a Balanced Diet",
+        "story": "Have a varied diet as much as possible.\n Eat a wide variety of cereals, fruits, and vegetables.\n Avoid fried foods, sausages, and processed meats.\n Eat regularly.\n Do not completely eliminate red meat; instead, reduce its consumption.\n Drink more than one liter of water per day.",
+        "statements": [
+            {
+                "text": "For a balanced diet, drink more than one liter of water per day.",
+                "evaluation": true
+                },
+                {
+                "text": "For a balanced diet, eat regularly.",
+                "evaluation": true
+                },
+                {
+                "text": "For a balanced diet, eat a wide variety of cereals, fruits, and vegetables.",
+                "evaluation": true
+                },
+                {
+                "text": "For a balanced diet, have the least varied diet possible.",
+                "evaluation": false
+                },
+                {
+                "text": "For a balanced diet, eat fried foods, sausages, and processed meats regularly.",
+                "evaluation": false
+                },
+                {
+                "text": "For a balanced diet, completely eliminate the consumption of red meat.",
+                "evaluation": false
+                }
+        ]
+    },
+    {
+        "title": "Vegetarianism",
+        "story": "Vegetarianism is a dietary plan that excludes (practically) all animal products. The reasons for choosing this type of diet are varied, starting with the desire to eat more healthily. There are also ethical reasons (not contributing to the suffering and slaughter of animals, since humans can survive without them, and they should coexist), environmental reasons (contributing to the preservation of natural resources that are destroyed to accommodate and feed livestock), and religious reasons (Buddhism and Hinduism are associated with this diet, not because eating meat is a sin, but because vegetarianism is a spiritual choice).",
+        "statements": [
+            {
+                "text": "The main reasons for adopting vegetarianism are health, the environment, and religion.",
+                "evaluation": true
+                },
+                {
+                "text": "Vegetarianism is a dietary plan that excludes (practically) all animal products.",
+                "evaluation": true
+                },
+                {
+                "text": "In Buddhism and Hinduism, eating meat is a sin, hence why vegetarianism is a spiritual choice.",
+                "evaluation": true
+                },
+                {
+                "text": "Vegetarianism is a dietary plan that excludes any type of animal food, including eggs, but not dairy products like milk, cheese, and yogurt, which accompany fruits and vegetables.",
+                "evaluation": false
+                },
+                {
+                "text": "The main reasons for adopting vegetarianism are health, economy, and religion.",
+                "evaluation": false
+                },
+                {
+                "text": "In Christianity and Buddhism, eating meat is a sin, hence why vegetarianism is a spiritual choice.",
+                "evaluation": false
+                }
+        ]
+    },
+    {
+        "title": "Music Therapy",
+        "story": "Music Therapy is a therapeutic process in which the music therapist helps a person connect with themselves through a helping relationship using musical experiences that occur during the sessions. These are centered on the specific needs and potentialities of the person, with the aim of facilitating conditions for the desired change. It is an integral intervention that takes into account the uniqueness of the individual at a mental, emotional, social, physical, and spiritual level.",
+        "statements": [
+            {
+                "text": "Musical experiences are centered on the specific needs and potentialities of the person, with the aim of facilitating conditions for the desired change.",
+                "evaluation": true
+                },
+                {
+                "text": "Music therapy takes into account the uniqueness of the individual at a mental, emotional, social, physical, and spiritual level.",
+                "evaluation": true
+                },
+                {
+                "text": "Music therapy helps a person connect with themselves through a helping relationship using musical experiences.",
+                "evaluation": true
+                },
+                {
+                "text": "Musical experiences are centered on the person's musical taste, with the aim of facilitating conditions for the desired change.",
+                "evaluation": false
+                },
+                {
+                "text": "Music therapy does not take into account the uniqueness of the individual at a mental, emotional, social, physical, and spiritual level.",
+                "evaluation": false
+                },
+                {
+                "text": "Music therapy helps a person connect with themselves through a helping relationship using sensory experiences.",
+                "evaluation": false
+                }
+        ]
+    },
+    {
+        "title": "Good Oral Hygiene",
+        "story": "In the period between regular dental visits, there are simple steps that each of us can take to drastically reduce the risk of developing tooth decay, gum disease, and other dental problems. These steps include: \n Brushing your teeth twice a day and using dental floss daily.\n Having a balanced diet and avoiding snacks between meals. \n Using dental products that contain fluoride, including toothpaste. \n Gargling with a fluoride mouthwash if your dentist advises you to do so. \n Ensuring that children under 12 years old take a fluoride supplement.",
+        "statements": [
+            {
+                "text": "It is recommended to brush your teeth twice a day and use dental floss daily.",
+                "evaluation": true
+                },
+                {
+                "text": "It is recommended to use dental products that contain fluoride, including toothpaste.",
+                "evaluation": true
+                },
+                {
+                "text": "It is recommended to avoid snacks between meals.",
+                "evaluation": true
+                },
+                {
+                "text": "It is recommended to brush your teeth daily and use dental floss twice a day.",
+                "evaluation": false
+                },
+                {
+                "text": "It is recommended not to use dental products that contain fluoride, including toothpaste.",
+                "evaluation": false
+                },
+                {
+                "text": "It is recommended to have snacks between meals.",
+                "evaluation": false
+                }
+        ]
+    },
+    {
+        "title": "Hand Sanitizers",
+        "story": "Alcohol-based lotions used to disinfect hands and thus kill the H1N1 flu virus can be dangerous. Used several times a day, they disrupt the skin's balance, allowing the appearance of bacteria, especially resistant ones. The warning emerged in the last two weeks in France, and several schools have already prohibited their use.",
+        "statements": [
+            {
+                "text": "Alcohol-based lotions are used to kill the H1N1 flu virus.",
+                "evaluation": true
+                },
+                {
+                "text": "Excessive use of alcohol-based lotions can disrupt the skin's balance.",
+                "evaluation": true
+                },
+                {
+                "text": "In France, some schools have already prohibited the use of these lotions.",
+                "evaluation": true
+                },
+                {
+                "text": "Alcohol-based lotions are used to kill the dengue virus.",
+                "evaluation": false
+                },
+                {
+                "text": "It is recommended to use alcohol-based lotions to maintain skin balance.",
+                "evaluation": false
+                },
+                {
+                "text": "In Finland, some schools have already prohibited the use of these lotions.",
+                "evaluation": false
+                }
+        ]
+    },
+    {
+        "title": "Table Salt",
+        "story": "Table salt is based on the chemical salt called Sodium chloride (NaCl). The importance of Sodium in our diet is associated with vital functions in the human body, such as the regulation of plasma volume, conduction of nerve impulses, and muscle contraction. Like any other food, it needs to be ingested in the appropriate amount to produce benefits and avoid risks related to its excessive or insufficient consumption. The primary source of Sodium is table salt. Over time, we have been increasing salt consumption due to processed foods and also unnecessary increase in portion sizes.",
+        "statements": [
+            {
+                "text": "The chemical name for table salt is NaCl.",
+                "evaluation": true
+                },
+                {
+                "text": "Sodium is important for regulating plasma volume, conduction of nerve impulses, and muscle contraction.",
+                "evaluation": true
+                },
+                {
+                "text": "The primary source of Sodium is table salt.",
+                "evaluation": true
+                },
+                {
+                "text": "The chemical name for table salt is MgRe.",
+                "evaluation": false
+                },
+                {
+                "text": "Sodium is important for regulating abdominal volume, conduction of nerve impulses, and muscle relaxation.",
+                "evaluation": false
+                },
+                {
+                "text": "The primary source of Sodium is processed foods, such as potato chips.",
+                "evaluation": false
+                }
+        ]
+    },
+    {
+        "title": "Prevent Diabetes",
+        "story": "Maintaining a healthy diet is one of the best ways to prevent diabetes. But be aware of the first signs of the disease. A family history of diabetes is usually the first factor that leads you to be attentive to the signs that the disease may affect you. In fact, the probability of its appearance in people with diabetic relatives is considerably higher, but nothing prevents you from being the first in the family, just as it is possible that you may never be despite having several relatives who are. 'Regularly controlling your weight, maintaining a healthy diet, and avoiding fast-absorbing sugars, such as those found in soft drinks, cookies, and chocolates, are the main measures to take to prevent diabetes.'",
+        "statements": [
+            {
+                "text": "The best way to prevent diabetes is to maintain a healthy diet.",
+                "evaluation": true
+                },
+                {
+                "text": "One of the main measures to prevent diabetes is to regularly control your weight, maintain a healthy diet, and avoid fast-absorbing sugars.",
+                "evaluation": true
+                },
+                {
+                "text": "Fast-absorbing sugars are present in soft drinks, cookies, and chocolates.",
+                "evaluation": true
+                },
+                {
+                "text": "The best way to prevent diabetes is to practice 60 minutes of exercise daily.",
+                "evaluation": false
+                },
+                {
+                "text": "One of the main measures to prevent diabetes is to control the amount of food ingested and avoid çslow-absorbing sugars.",
+                "evaluation": false
+                },
+                {
+                "text": "Fast-absorbing sugars are present in vegetables, fruits, and milk.",
+                "evaluation": false
+                }
+        ]
+    },
+    {
+        "title": "Cognitive Training",
+        "story": "A recently conducted large-scale study has confirmed the benefits of cognitive training. Researchers from the Institute of Psychiatry, Psychology, and Neuroscience in London developed an online brain-stimulating exercise system and evaluated the impact of this practice on how people perform their day-to-day tasks and their abilities. About 3000 people over the age of 50 were assessed before and after engaging in the package of computerized exercises. Participants spent between 10 minutes to 1 hour regularly doing these exercises.",
+        "statements": [
+            {
+                "text": "The online exercise system was developed by researchers from the Institute of Psychiatry, Psychology, and Neuroscience in London.",
+                "evaluation": true
+            }, {
+                "text": "3000 people over the age of 50 were assessed.",
+                "evaluation": true
+            }, {
+                "text": "Participants spent between 10 minutes to 1 hour regularly doing these exercises.",
+                "evaluation": true
+            },
+            {
+                "text": "4000 people over the age of 50 were assessed.",
+                "evaluation": false
+            },
+            {
+                "text": "The online exercise system was developed by researchers from the Institute of Psychiatry, Psychology, and Neuroscience in Luanda.",
+                "evaluation": false
+            },
+            {
+                "text": "Participants spent between 15 minutes to 1 hour regularly doing these exercises.",
+                "evaluation": false
+            }
+        ]
+    }
+]

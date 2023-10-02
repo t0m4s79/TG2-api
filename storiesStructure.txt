@@ -1,0 +1,14 @@
+{
+    "title": "",
+    "story": "",
+    "statements": [
+        {
+            "text": "",
+            "evaluation": true
+        },
+        {
+            "text": "",
+            "evaluation": false
+        }
+    ]
+},

@@ -1,0 +1,115 @@
+{
+    "implicit" : [
+        {
+            "steps" : [
+                "Sweating after running.",
+                "Undressing before getting in the tub.",
+                "Adjust water temperature.",
+                "Wash the hair and rub soap onto body.",
+                "After removing all the soap, dry with a towel.",
+                "Get dressed."
+            ]
+        },
+        {
+            "steps" : [
+                "Place a pan of water on the stove to heat.",
+                "Peel potatoes, onions and carrots and cook them in water.",
+                "When the cabagges are cooked, soup is ready.",
+                "Season with salt.",
+                "Grate the soup with a blender.",
+                "Serve with a dash of olive oil."
+            ]
+        },
+        {
+            "steps" : [
+                "The alarm clock rings.",
+                "Getting up in the morning.",
+                "Leaving home.",
+                "Go out to buy milk.",
+                "In the supermarket choose the milk to take home.",
+                "Prepare bread toasts with milk for breakfast."
+            ]
+        },
+        {
+            "steps" : [
+                "Get a fever.",
+                "Take the temperature and see it is 38 degrees.",
+                "Go to the doctor.",
+                "An antibiotic is prescribed.",
+                "Go to the pharmacy.",
+                "Follow the pharmacist instructions."
+            ]
+        },
+
+        {
+            "steps" : [
+                "Go out to buy bread.",
+                "Got to the bakery and realized that there was no money.",
+                "Return home to get the wallet.",
+                "Withdraw money from ATM.",
+                "Make some coffee and tea.",
+                "Serve a snack for friends."
+            ]
+        }
+    ],
+
+    "explicit" : [
+        { 
+            "action" : "To do rice",
+            "steps" : [
+                    "Pick up the pan.",
+                    "Put olive oil in the pan.",
+                    "Put onion in the pan.",
+                    "Light the fire.",
+                    "Put water in the pan.",
+                    "Put rice in the pan."
+                ]
+        },
+        {
+            "action" : "To take a bath",
+            "steps" : [
+                    "Get undressed.",
+                    "Get into the tub.",
+                    "Adjust water temperature.",
+                    "Wet the body.",
+                    "Washed with soap.",
+                    "Dry with a towel."
+                ]
+        },
+        {
+            "action" : "To plant potatoes",
+            "steps" : [
+                    "Smooth the soil.",
+                    "Fertilize the land.",
+                    "Dig the soil.",
+                    "Throw the seed.",
+                    "Cover the seed with land.",
+                    "Watering."
+                ]
+        },
+        {
+            "action" : "To brush the teeth",
+            "steps" : [
+                    "Hold the toothbrush.",
+                    "Put toothpaste on the brush.",
+                    "Brushing the teeth.",
+                    "Rinse mouth with water.",
+                    "Rinse mouth with elixir. ",
+                    "Wash the toothbrush."
+                ]
+        },
+        {
+            "action" : "To get dressed",
+            "steps" : [
+                    "Choose the clothes.",
+                    "Put on the underwear.",
+                    "Dress the pants and a sweater.",
+                    "Put on the socks.",
+                    "Put on the shoes.",
+                    "Put on the coat."
+                ]
+        }
+    ],
+
+    "instructions" : "Please indicate the order in which the following steps need to be executed."
+}

@@ -1,0 +1,693 @@
+[
+    {
+        "title": "Get rid of colds and flu!",
+        "story": "Wash your hands regularly with soap. This measure is particularly important for children. \n When coughing or sneezing, cover your forearm in front of your mouth. \n Use tissue paper and do not reuse it. \n Avoid close contact with sick people. \n Try to ventilate your home daily. \n Decrease the frequency of closed public spaces. \n Increase the consumption of vitamin C. \n If you are at risk, get vaccinated annually.",
+        "statements": [
+            { 
+                "text": "To prevent colds and flu, wash your hands regularly with soap.", 
+                "evaluation": true
+            },
+            { 
+                "text": "To prevent colds and flu, cover your forearm in front of your mouth when coughing or sneezing.", 
+                "evaluation": true
+            },
+            { 
+                "text": "To prevent colds and flu, avoid close contact with sick people.", 
+                "evaluation": true
+            },
+            { 
+                "text": "To prevent colds and flu, decrease the frequency of closed public spaces.", 
+                "evaluation": true
+            },
+            { 
+                "text": "To prevent colds and flu, increase the consumption of vitamin C.", 
+                "evaluation": true
+            },
+            { 
+                "text": "To prevent colds and flu, reuse your tissue paper.", 
+                "evaluation": false
+            },
+            { 
+                "text": "To prevent colds and flu, avoid ventilating your home.", 
+                "evaluation": false
+            },
+            { 
+                "text": "To prevent colds and flu, do not get vaccinated annually.", 
+                "evaluation": false
+            },
+            { 
+                "text": "To prevent colds and flu, interact with sick people to increase your resistance to the virus.", 
+                "evaluation": false
+            },
+            { 
+                "text": "To prevent colds and flu, increase the consumption of milk.", 
+                "evaluation": false
+            }
+        ]
+    },
+    {
+        "title": "Before leaving home to travel...",
+        "story": "Unplug all electrical cords. Besides saving energy, it keeps the equipment protected against possible electric shock in case of heavy rain. \n Lock the kitchen gas valve to prevent accidents. \n Provide your phone number and house keys to someone you trust, in case of an emergency. \n Inform someone close that you will not be at home so that person can be attentive to any strange activity. \n Take out all the trash from home to prevent the accumulation of bacteria. \n Check if all doors and windows are properly closed.",
+        "statements": [
+            { 
+                "text": "Before leaving home to travel, unplug all electrical cords.", 
+                "evaluation": true
+            },
+            { 
+                "text": "Before leaving home to travel, lock the kitchen gas valve.", 
+                "evaluation": true
+            },
+            { 
+                "text": "Before leaving home to travel, provide your phone number and house keys to someone you trust.", 
+                "evaluation": true
+            },
+            { 
+                "text": "Before leaving home to travel, take out all the trash from home to prevent the accumulation of bacteria.", 
+                "evaluation": true
+            },
+            { 
+                "text": "Before leaving home to travel, check if all doors and windows are properly closed.", 
+                "evaluation": true
+            },
+            { 
+                "text": "Before leaving home to travel, do not inform neighbors or close friends.", 
+                "evaluation": false
+            },
+            { 
+                "text": "Before leaving home to travel, leave your appliances connected to the power outlet.", 
+                "evaluation": false
+            },
+            { 
+                "text": "Before leaving home to travel, do not leave your house keys with anyone.", 
+                "evaluation": false
+            },
+            { 
+                "text": "Before leaving home to travel, leave a light on to make others think you are at home.", 
+                "evaluation": false
+            },
+            { 
+                "text": "Before leaving home to travel, do not provide your phone number to anyone.", 
+                "evaluation": false
+            }
+        ]
+    },
+    {
+        "title": "The three main concepts of a balanced diet:",
+        "story": "Balance - A balanced diet includes foods from all groups to provide all necessary nutrients. \n Variety - There is no single food capable of providing all necessary nutrients. A varied diet includes foods from all food groups. \n Moderation - Careful food selection helps control calories, saturated fats, cholesterol, salt, and sugar.",
+        "statements": [
+            { 
+                "text": "A balanced diet includes foods from all groups to provide all necessary nutrients.", 
+                "evaluation": true
+            },
+            { 
+                "text": "There is no single food capable of providing all necessary nutrients.", 
+                "evaluation": true
+            },
+            { 
+                "text": "A varied diet includes foods from all food groups.", 
+                "evaluation": true
+            },
+            { 
+                "text": "Careful food selection helps control calories, saturated fats, cholesterol, salt, and sugar.", 
+                "evaluation": true
+            },
+            { 
+                "text": "The three main concepts of a balanced diet are: balance, variety, and moderation.", 
+                "evaluation": true
+            },
+            { 
+                "text": "We should not control the consumption of saturated fats, cholesterol, salt, and sugar.", 
+                "evaluation": false
+            },
+            { 
+                "text": "Careful food selection does not help control calories.", 
+                "evaluation": false
+            },
+            { 
+                "text": "Some foods are capable of providing all necessary nutrients.", 
+                "evaluation": false
+            },
+            { 
+                "text": "A varied diet includes foods from at least three food groups.", 
+                "evaluation": false
+            },
+            { 
+                "text": "The three main concepts of a balanced diet are: simplicity, variety, and abundance.", 
+                "evaluation": false
+            }
+        ]
+    },
+    {
+        "title": "Benefits obtained from regular physical activity:",
+        "story": "Improvement of cardiovascular and respiratory function.\n Decreased incidence of colon cancer and type II diabetes. \n Reduction of body fat and increase in muscle mass. \n Increase in bone mass and/or prevention of bone loss (osteoporosis prevention). \n Improvement of immune function.\n Delay of certain aging processes.\n Increase in the sense of well-being and self-esteem. \n Improvement of states of depression and anxiety.",
+        "statements": [
+            { 
+                "text": "Regular physical activity improves cardiovascular and respiratory function.", 
+                "evaluation": true
+            },
+            { 
+                "text": "Regular physical activity decreases the incidence of colon cancer and type II diabetes.", 
+                "evaluation": true
+            },
+            { 
+                "text": "Regular physical activity reduces body fat and increases muscle mass.", 
+                "evaluation": true
+            },
+            { 
+                "text": "Regular physical activity increases bone mass and prevents bone loss.", 
+                "evaluation": true
+            },
+            { 
+                "text": "Regular physical activity improves immune function.", 
+                "evaluation": true
+            },
+            { 
+                "text": "Regular physical activity accelerates certain aging processes.", 
+                "evaluation": false
+            },
+            { 
+                "text": "Regular physical activity decreases the sense of well-being and self-esteem.", 
+                "evaluation": false
+            },
+            { 
+                "text": "Regular physical activity can worsen states of depression and anxiety.", 
+                "evaluation": false
+            },
+            { 
+                "text": "Regular physical activity decreases bone mass.", 
+                "evaluation": false
+            },
+            { 
+                "text": "Regular physical activity decreases cardiovascular and respiratory function.", 
+                "evaluation": false
+            }
+        ]
+    },
+    {
+        "title": "How to prevent the development of a cavity?",
+        "story": "Brush your teeth twice a day. \n Use toothpaste or mouthwash that contains fluoride, an agent that strengthens teeth and contributes to cavity prevention. \n Clean the interdental spaces daily with dental floss to remove plaque in areas your toothbrush cannot reach. \n Follow a healthy dietary regimen and avoid sugary foods and drinks. \n Schedule regular dental appointments, approximately every six months, for a cleaning and routine examination. \n Don't forget to replace your toothbrush every three months or when it becomes worn.",
+        "statements": [
+            { 
+                "text": "To prevent cavities, brush your teeth twice a day.", 
+                "evaluation": true
+            },
+            { 
+                "text": "To prevent cavities, use toothpaste or mouthwash that contains fluoride.", 
+                "evaluation": true
+            },
+            { 
+                "text": "To prevent cavities, replace your toothbrush every three months or when it becomes worn.", 
+                "evaluation": true
+            },
+            { 
+                "text": "To prevent cavities, clean the interdental spaces daily with dental floss.", 
+                "evaluation": true
+            },
+            { 
+                "text": "To prevent cavities, follow a healthy dietary regimen.", 
+                "evaluation": true
+            },
+            { 
+                "text": "To prevent cavities, brush your teeth once a day.", 
+                "evaluation": false
+            },
+            { 
+                "text": "To prevent cavities, replace your toothbrush annually.", 
+                "evaluation": false
+            },
+            { 
+                "text": "To prevent cavities, drink soda and eat sweets.", 
+                "evaluation": false
+            },
+            { 
+                "text": "To prevent cavities, schedule dental appointments every two years.", 
+                "evaluation": false
+            },
+            { 
+                "text": "To prevent cavities, avoid using dental floss.", 
+                "evaluation": false
+            }
+        ]
+    },
+    {
+        "title": "Vitamin B12",
+        "story": "Studies have shown that low levels of vitamin B12 are associated with a higher likelihood of developing cognitive problems such as memory loss. It is proven that our body's ability to absorb vitamin B12 from food decreases in adulthood, which may contribute to brain degeneration later in life. Vitamin B12 is present in foods such as fish, eggs, dairy products, grains, cereals, some organ meats (liver, kidneys, heart), and also in supplements. The recommended daily dose is 2.0 mg for adults. The intake of supplements like vitamin B12 has a beneficial role in brain health, protecting it from neurological diseases like Alzheimer's disease.",
+        "statements": [
+            { 
+                "text": "Low levels of vitamin B12 are associated with a higher likelihood of developing cognitive problems.", 
+                "evaluation": true
+            },
+            { 
+                "text": "Our body's ability to absorb vitamin B12 from food decreases in adulthood.", 
+                "evaluation": true
+            },
+            { 
+                "text": "Vitamin B12 prevents neurological diseases, such as Alzheimer's disease.", 
+                "evaluation": true
+            },
+            { 
+                "text": "Vitamin B12 is present in foods such as fish, eggs, dairy products, grains, and cereals.", 
+                "evaluation": true
+            },
+            { 
+                "text": "The recommended daily dose is 2.0 mg for adults.", 
+                "evaluation": true
+            },
+            { 
+                "text": "Low levels of vitamin B12 are associated with a higher likelihood of developing heart problems.", 
+                "evaluation": false
+            },
+            { 
+                "text": "Our body's ability to absorb vitamin B12 from food increases in adulthood.", 
+                "evaluation": false
+            },
+            { 
+                "text": "Vitamin B12 is present in foods such as fish, eggs, dairy products, and vegetables.", 
+                "evaluation": false
+            },
+            { 
+                "text": "The recommended daily dose is 2.1 mg for adults.", 
+                "evaluation": false
+            },
+            { 
+                "text": "Vitamin B12 contributes to neurological diseases, such as Alzheimer's disease.", 
+                "evaluation": false
+            }
+        ]
+    },
+    {
+        "title": "Chocolate Mug Cake",
+        "story": "Ingredients: 2 tablespoons of milk; 2 tablespoons of oil; 1 egg; 2 tablespoons of chocolate powder; 2 tablespoons of sugar; 2 tablespoons of flour. \n Preparation: 1. In a mug, put 2 tablespoons of flour, 2 tablespoons of sugar, and two tablespoons of chocolate powder. 2. Mix everything and add 1 egg. 3. Add 2 tablespoons of milk and two tablespoons of oil. 4. Microwave for 3 minutes on the highest power (1000 watts).",
+        "statements": [
+            { 
+                "text": "For the preparation of the cake, 2 tablespoons of oil are needed.", 
+                "evaluation": true
+            },
+            { 
+                "text": "The cake requires 2 tablespoons of milk.", 
+                "evaluation": true
+            },
+            { 
+                "text": "The cooking time of the cake is 3 minutes in the microwave.", 
+                "evaluation": true
+            },
+            { 
+                "text": "The preparation of the cake starts by combining flour, sugar, and chocolate powder.", 
+                "evaluation": true
+            },
+            { 
+                "text": "The microwave power should be 1000 watts.", 
+                "evaluation": true
+            },
+            { 
+                "text": "For the preparation of the cake, 2 teaspoons of oil are needed.", 
+                "evaluation": false
+            },
+            { 
+                "text": "The cake does not contain any dairy products.", 
+                "evaluation": false
+            },
+            { 
+                "text": "The cooking time of the cake is 3 minutes in the oven.", 
+                "evaluation": false
+            },
+            { 
+                "text": "The preparation of the cake starts with milk, oil, and chocolate powder.", 
+                "evaluation": false
+            },
+            { 
+                "text": "The microwave power should be 100 watts.", 
+                "evaluation": false
+            }
+        ]
+    },
+    {
+        "title": "3-5 Minute Rice Recipe",
+        "story": "Ingredients: Rice; 2.5 times the measure of rice of water; Salt to taste; Chopped onion; Olive oil; 1 finely chopped garlic clove. \n Preparation: In a saucepan, place the olive oil, onion, and garlic and sauté for a short time, just enough for the onion and garlic to become warm. Then, add the rice and let it fry for 2 minutes, stirring constantly. After 2 minutes, add the boiling water, along with the almond, and stir. Once it's boiling again, reduce the heat to a minimum and place a rectangle of transparent cling film or a sheet of aluminum foil on top. Let it cook for 3 minutes. After 3 minutes, the rice is ready.",
+        "statements": [
+            { 
+                "text": "The measure of water is 2.5 times the measure of rice.", 
+                "evaluation": true
+            },
+            { 
+                "text": "The onion is chopped.", 
+                "evaluation": true
+            },
+            { 
+                "text": "The rice should fry for 2 minutes.", 
+                "evaluation": true
+            },
+            { 
+                "text": "The rice should cook for 3 minutes.", 
+                "evaluation": true
+            },
+            { 
+                "text": "The recipe includes 1 finely chopped garlic clove.", 
+                "evaluation": true
+            },
+            { 
+                "text": "The measure of water is 4.5 times the measure of rice.", 
+                "evaluation": false
+            },
+            { 
+                "text": "The onion is whole.", 
+                "evaluation": false
+            },
+            { 
+                "text": "The rice should fry for 1 minute.", 
+                "evaluation": false
+            },
+            { 
+                "text": "The rice should cook for 5 minutes.", 
+                "evaluation": false
+            },
+            { 
+                "text": "The recipe includes 2 garlic cloves.", 
+                "evaluation": false
+            }
+        ]
+    },
+    {
+        "title": "Homemade Mashed Potatoes",
+        "story": "Ingredients: 7 medium potatoes; Water and salt; 1 cup of hot semi-skimmed milk; 1 teaspoon of butter; a pinch of nutmeg; a pinch of white pepper. \n Preparation: \n Peel and cut the potatoes into pieces and put them to cook in abundant water with salt to taste until they become tender (between 10 and 15 minutes boiling). Drain the water and mash the potatoes with a potato masher. Heat the milk well. Add to the potatoes one teaspoon of butter, nutmeg, and pepper. Stir vigorously with a wooden spoon while adding the milk until it reaches the desired consistency. Taste and adjust the salt.",
+        "statements": [
+            { 
+                "text": "7 medium potatoes are needed.", 
+                "evaluation": true
+            },
+            { 
+                "text": "A pinch of white pepper is needed.", 
+                "evaluation": true
+            },
+            { 
+                "text": "The potatoes are cooked without the skin, between 10 to 15 minutes.", 
+                "evaluation": true
+            },
+            { 
+                "text": "1 cup of hot semi-skimmed milk is needed.", 
+                "evaluation": true
+            },
+            { 
+                "text": "1 teaspoon of butter is needed.", 
+                "evaluation": true
+            },
+            { 
+                "text": "7 large potatoes are needed.", 
+                "evaluation": false
+            },
+            { 
+                "text": "A pinch of black pepper is needed.", 
+                "evaluation": false
+            },
+            { 
+                "text": "The potatoes are cooked with the skin, between 10 to 15 minutes.", 
+                "evaluation": false
+            },
+            { 
+                "text": "1 cup of hot skimmed milk is needed.", 
+                "evaluation": false
+            },
+            { 
+                "text": "1 tablespoon of butter is needed.", 
+                "evaluation": false
+            }
+        ]
+    },
+    {
+        "title": "The Benefits of Oranges",
+        "story": "A large set of nutrients present in a single fruit makes it very effective in fighting and preventing various diseases: \n Shortens the duration of colds and flu and reduces the intensity of their symptoms. \n Fights infectious diseases. \n Hampers the development of viruses in the body (but doesn't completely prevent). \n Increases white blood cells. \n Inhibits excessive blood clot formation, which ends up improving circulation. \n Lowers blood pressure. \n Is an antioxidant. \n Reduces cholesterol levels. \n Combats constipation. \n Aids in weight loss. \n Prevents the occurrence of allergic crises, such as rhinitis and asthma. \n Prevents the appearance of various types of cancer.",
+        "statements": [
+            { 
+                "text": "Oranges combat constipation.", 
+                "evaluation": true
+            },
+            { 
+                "text": "Oranges increase white blood cells.", 
+                "evaluation": true
+            },
+            { 
+                "text": "Oranges improve blood circulation by inhibiting excessive blood clot formation.", 
+                "evaluation": true
+            },
+            { 
+                "text": "Oranges prevent the occurrence of allergic crises, such as rhinitis and asthma.", 
+                "evaluation": true
+            },
+            { 
+                "text": "Oranges hinder the development of viruses in the body.", 
+                "evaluation": true
+            },
+            { 
+                "text": "Oranges contribute to constipation.", 
+                "evaluation": false
+            },
+            { 
+                "text": "Oranges increase red blood cells.", 
+                "evaluation": false
+            },
+            { 
+                "text": "Oranges improve blood circulation by inhibiting excessive blood clot formation.", 
+                "evaluation": false
+            },
+            { 
+                "text": "Oranges prevent the occurrence of allergic crises, such as colds and asthma.", 
+                "evaluation": false
+            },
+            { 
+                "text": "Oranges facilitate the development of viruses in the body.", 
+                "evaluation": false
+            }
+        ]
+    },
+    {
+        "title": "Home Herb Garden",
+        "story": "Cultivating tea herbs at home is not as complicated as it may seem. It is important to have a location with both sun and shade, as well as fertile and humid soil for the plants to thrive. If you don't want or can't plant in the backyard soil, you can also plant the tea herbs in pots. Just invest in good fertilization and line the bottom of the pot with small stones (gravel), making small holes in the bottom of the pot. To plant, acquire seedlings instead of seeds; the process will be much faster, as you only need to cover them with soil and follow the care instructions. Both pots and planters should receive plenty of sun in the morning and be protected in the shade during the afternoon. To keep your tea herb garden healthy, water the plants up to three times a week during the evening (to prevent water from evaporating quickly) and fertilize the garden once a year. And don't rush it. Only harvest the plant leaves to make tea after the seedlings have stabilized – approximately five months after planting.",
+        "statements": [
+            { 
+                "text": "It is important to have a location with both sun and shade and fertile, moist soil.", 
+                "evaluation": true 
+            },
+            { 
+                "text": "It is possible to plant tea herbs in the backyard soil or in pots.", 
+                "evaluation": true 
+            },
+            { 
+                "text": "The plants should receive plenty of sun in the morning and be protected from the sun in the afternoon.", 
+                "evaluation": true 
+            },
+            { 
+                "text": "The garden should be fertilized once a year.", 
+                "evaluation": true 
+            },
+            { 
+                "text": "The leaves of the plant should be harvested for making tea after the seedlings have stabilized, approximately five months after planting.", 
+                "evaluation": true 
+            },
+            { 
+                "text": "It is important to have a location with both sun and shade and fertile, dry soil.", 
+                "evaluation": false
+            },
+            { 
+                "text": "It is possible to plant tea herbs only in the backyard soil.", 
+                "evaluation": false
+            },
+            { 
+                "text": "The plants should be in the shade in the morning and receive plenty of sun in the afternoon.", 
+                "evaluation": false
+            },
+            { 
+                "text": "The garden should be fertilized twice a year.", 
+                "evaluation": false
+            },
+            { 
+                "text": "The leaves of the plant should be harvested for making tea approximately four months after planting.", 
+                "evaluation": false
+            }
+        ]
+    },
+    {
+        "title": "Food Intolerances",
+        "story": "Food intolerances are adverse reactions of the body to foods caused by non-immunological mechanisms. The symptoms they provoke can include gastrointestinal, cutaneous, and respiratory disturbances and can be confused with symptoms of food allergies. However, food intolerance and food allergy are different processes, requiring a diagnosis and differential treatment depending on the mechanism involved. The origin of food intolerance may lie in certain carbohydrates present in the foods, when the body suffers from a deficiency or decreased activity of enzymes, which hinders their effective metabolism. These intolerances can occur due to rare congenital defects, generalized forms secondary to diseases, or genetically acquired conditions.",
+        "statements": [
+            { 
+                "text": "Food intolerances are an adverse reaction of the body to food caused by non-immunological mechanisms.", 
+                "evaluation": true 
+            },
+            { 
+                "text": "The symptoms of food intolerances can include gastrointestinal, cutaneous, and respiratory disorders and can be confused with the symptoms of food allergies.", 
+                "evaluation": true 
+            },
+            { 
+                "text": "Food intolerances can occur due to rare congenital defects, generalized forms secondary to diseases, or genetically acquired forms.", 
+                "evaluation": true 
+            },
+            { 
+                "text": "Food intolerances and food allergies are different processes.", 
+                "evaluation": true 
+            },
+            { 
+                "text": "Food intolerances are associated with a deficiency or decrease in enzyme activity, which prevents effective metabolism.", 
+                "evaluation": true 
+            },
+            { 
+                "text": "Food intolerances are an opposite reaction of the body to food caused by immunological mechanisms.", 
+                "evaluation": false
+            },
+            { 
+                "text": "The symptoms of food intolerances can include gastrointestinal, cardiac, and physical disorders.", 
+                "evaluation": false
+            },
+            { 
+                "text": "Food intolerances can occur due to rare non-congenital defects, generalized forms secondary to diseases, or genetically acquired forms.", 
+                "evaluation": false
+            },
+            { 
+                "text": "Food intolerances and food allergies are the same processes.", 
+                "evaluation": false
+            },
+            { 
+                "text": "Food intolerances are associated with an increase in enzyme activity, which prevents effective metabolism.", 
+                "evaluation": false
+            }
+        ]
+    },
+    {
+        "title": "Homemade Sofa Cleaner",
+        "story": "Before anything else, first, you should remove the excess dirt from the sofa using a vacuum cleaner. Then, take a tablespoon of liquid coconut soap and a liter of water and mix well. After that, use a brush to apply the mixture to the furniture for the first part of the cleaning process. Subsequently, prepare a second substance by using half a cap of fabric softener, one liter of water, and a tablespoon of alcohol. This time, apply the mixture with a damp cloth. Finally, wipe the entire piece of furniture with a clean and dry cloth.",
+        "statements": [
+            { 
+                "text": "Before starting, it is necessary to remove excess dirt from the sofa using a vacuum cleaner.", 
+                "evaluation": true 
+            },
+            { 
+                "text": "For the first mixture, liquid coconut soap and water are required.", 
+                "evaluation": true 
+            },
+            { 
+                "text": "A brush is needed for the first part of the cleaning process.", 
+                "evaluation": true 
+            },
+            { 
+                "text": "For the second mixture, fabric softener, water, and alcohol are needed.", 
+                "evaluation": true 
+            },
+            { 
+                "text": "The final step involves using a clean and dry cloth to wipe the entire piece of furniture.", 
+                "evaluation": true 
+            },
+            { 
+                "text": "Before starting, it is necessary to remove excess dirt from the sofa using a broom.", 
+                "evaluation": false
+            },
+            { 
+                "text": "For the first mixture, aloe vera liquid soap and water are required.", 
+                "evaluation": false
+            },
+            { 
+                "text": "A toothbrush is needed for the first part of the cleaning process.", 
+                "evaluation": false
+            },
+            { 
+                "text": "For the second mixture, laundry detergent, water, and alcohol are needed.", 
+                "evaluation": false
+            },
+            { 
+                "text": "The final step involves using a clean and damp cloth to wipe the entire piece of furniture.", 
+                "evaluation": false
+            }
+        ]
+    },
+    {
+        "title": "Eco-Friendly Detergent Recipe",
+        "story": "Ingredients: \n 1 liter of water \n 2 lemons \n 1 bar of neutral coconut soap \n 1 bucket with 5 liters of water \n 4 tablespoons of biodegradable ammonia \n Instructions: \n Take the bar of coconut soap and cut it into several equal pieces. The smaller the soap fragments, the easier it will be to melt. \n Next, boil the liter of water in a deep pan. Once the water starts boiling, add the previously cut pieces of soap. Let the soap melt completely and mix everything with a wooden spoon. \n After that, pour the entire mixture into the bucket with the five liters of water. At this moment, you should squeeze the lemons into the liquid in the bucket and mix thoroughly. \n Now, it's time to add the ammonia. Be very careful during this step to avoid any contact with the substance on your face. Mix well after adding the ammonia. \n Finally, store the eco-friendly homemade detergent in properly labeled bottles.",
+        "statements": [
+            { 
+                "text": "The recipe requires a bucket with 5 liters of water.", 
+                "evaluation": true 
+            },
+            { 
+                "text": "Only the juice of the lemons is used for the eco-friendly detergent.", 
+                "evaluation": true 
+            },
+            { 
+                "text": "The recipe advises using biodegradable ammonia.", 
+                "evaluation": true 
+            },
+            { 
+                "text": "Care must be taken when handling ammonia to avoid contact with the skin.", 
+                "evaluation": true 
+            },
+            { 
+                "text": "The recipe requires a bar of neutral coconut soap.", 
+                "evaluation": true 
+            },
+            { 
+                "text": "The recipe requires a bucket with 7 liters of water.", 
+                "evaluation": false
+            },
+            { 
+                "text": "The whole lemons are used for the eco-friendly detergent.", 
+                "evaluation": false
+            },
+            { 
+                "text": "The recipe advises against using biodegradable ammonia.", 
+                "evaluation": false
+            },
+            { 
+                "text": "No special care is needed when handling ammonia.", 
+                "evaluation": false
+            },
+            { 
+                "text": "The recipe requires one and a half bars of neutral coconut soap.", 
+                "evaluation": false
+            }
+        ]
+    },
+    {
+        "title": "Lactose Intolerance",
+        "story": "Lactose, the sugar naturally present in milk, when ingested in a quantity greater than what the body can metabolize (about 12g, the amount found in 240 ml of milk), can cause symptoms such as abdominal pain, bloating, nausea, and abundant acidic diarrhea in people with lactase deficiency (the intestinal enzyme that digests this sugar). This happens because lactose, when not digested, remains in the intestine and acts osmotically, attracting water. It is estimated that about 70% of adults worldwide are unable to digest lactose. The majority of lactose-intolerant individuals can only digest milk in small to moderate amounts. How can this problem be overcome? It is possible to replace the consumption of milk and its derivatives with lactose-free milk or other lactose-removed food products. Another option, which is even healthier, as it provides plant-based proteins, polyunsaturated fats naturally cholesterol-free, and isoflavones, is to choose soy beverages and soy-based products.",
+        "statements": [
+            { 
+                "text": "The amount of lactose the body can metabolize is about 12g, which is the quantity found in 240 ml of milk.", 
+                "evaluation": true 
+            },
+            { 
+                "text": "Some symptoms of lactose intolerance are abdominal pain, flatulence, nausea, and abundant acidic diarrhea.", 
+                "evaluation": true 
+            },
+            { 
+                "text": "It is possible to replace the consumption of milk and its derivatives with lactose-free milk or other food items from which lactose has been removed.", 
+                "evaluation": true 
+            },
+            { 
+                "text": "It is estimated that about 70% of adults worldwide are unable to digest lactose.", 
+                "evaluation": true 
+            },
+            { 
+                "text": "Most lactose-intolerant people can only digest milk in small to moderate amounts.", 
+                "evaluation": true 
+            },
+            { 
+                "text": "The amount of lactose the body can metabolize is about 14g, which is the quantity found in 250 ml of milk.", 
+                "evaluation": false
+            },
+            { 
+                "text": "Some symptoms of lactose intolerance are abdominal pain, flatulence, nausea, and constipation.", 
+                "evaluation": false
+            },
+            { 
+                "text": "It is not advised to replace the consumption of milk and its derivatives with lactose-free milk or soy-based products.", 
+                "evaluation": false
+            },
+            { 
+                "text": "It is estimated that about 60% of adults worldwide are unable to digest lactose.", 
+                "evaluation": false
+            },
+            { 
+                "text": "Most lactose-intolerant people are able to digest milk only in small to moderate amounts.", 
+                "evaluation": false
+            }
+        ]
+    }
+]
+
