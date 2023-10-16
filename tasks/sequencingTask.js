@@ -35,8 +35,8 @@ function sequencingModel(size, step, order, where, missing) {
   return {attention, memory, exfunctions, language, difficulty};
 }
 
-function sequencingTask(size, step, order, where, missing) {
-    const language = 'pt';
+function sequencingTask(size, step, order, where, missing, lang) {
+    const language = lang;
     const taskTranslations = translations.loadTaskTranslations(`sequencingTask_${language}`, language);
 
   var instructions = taskTranslations.instructions;
@@ -67,13 +67,13 @@ function sequencingTask(size, step, order, where, missing) {
   return {instructions, sequenceArray}
 }
 
-function taskObject(size, step, order, where, missing){
+function taskObject(size, step, order, where, missing, lang){
 
   taskJSON = {}
 
-  taskArray = sequencingTask(size, step, order, where, missing)
+  taskArray = sequencingTask(size, step, order, where, missing, lang)
 
-  model = sequencingModel(size, step, order, where, missing)
+  model = sequencingModel(size, step, order, where, missing, lang)
 
   taskJSON['model'] = model;
   taskJSON['instructions'] = taskArray.instructions;
