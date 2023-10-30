@@ -1,5 +1,5 @@
 {
-    "instructions" : "Por favor, agrupe as imagens abaixo por categorias de pertença.",
+    "instructions" : "Por favor, selecione a categoria apropriada para cada imagem.",
     "note" : "* Imagens do banco de dados IPNP nomeação de figuras (http://crl.ucsd.edu/experiments/ipnp/method/getpics/getpics.html)"
 
 }

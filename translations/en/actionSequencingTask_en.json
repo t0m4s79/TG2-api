@@ -111,5 +111,5 @@
         }
     ],
 
-    "instructions" : "Please indicate the order in which the following steps need to be executed."
+    "instructions" : "Please create associations between the steps and their order number to indicate the order in which the following steps need to be executed."
 }

@@ -1,4 +1,6 @@
-function problemTask(size, tens, explicit, lang) {
+const problemPT = require('../translations/pt/problemTask_pt')
+
+function problemTask(size, tens, explicit) {
   
     var instructions = "Please solve the following calculus problems.";
   
@@ -93,7 +95,7 @@ function problemTask(size, tens, explicit, lang) {
               object +
               " " +
               name +
-              " had at the beginning?\n\n";
+              " had at the beginning?";
           else
             sentence +=
               name +
@@ -115,7 +117,7 @@ function problemTask(size, tens, explicit, lang) {
               object +
               " does " +
               name +
-              " have?\n\n";
+              " have?";
         }
   
         if (size == 2) {
@@ -132,7 +134,7 @@ function problemTask(size, tens, explicit, lang) {
               number2 +
               ". How many " +
               object +
-              " do they have together?\n\n";
+              " do they have together?";
           else if (number1 > number2)
             sentence +=
               name +
@@ -148,7 +150,7 @@ function problemTask(size, tens, explicit, lang) {
               object +
               " does " +
               name +
-              " have?\n\n";
+              " have?";
           else {
             number1 = (Math.floor(Math.random() * 9) + 1).toFixed(0);
             sentence +=
@@ -162,7 +164,7 @@ function problemTask(size, tens, explicit, lang) {
               object +
               ". How many " +
               object +
-              " do they have?\n\n";
+              " do they have?";
           }
         }
         if (size == 4) {
@@ -178,7 +180,7 @@ function problemTask(size, tens, explicit, lang) {
               number3 +
               " classes with " +
               number4 +
-              " students. How many students are in the school?\n\n";
+              " students. How many students are in the school?";
           } else if (number1 > number2) {
             number3 = (Math.floor(Math.random() * 9) + 1).toFixed(0);
             number4 = (Math.floor(Math.random() * 9) + 1).toFixed(0);
@@ -199,7 +201,7 @@ function problemTask(size, tens, explicit, lang) {
               object +
               " " +
               name +
-              "'s friends have altogether?\n\n";
+              "'s friends have altogether?";
           } else {
             number1 = (Math.floor(Math.random() * 9) + 1).toFixed(0);
             number3 = (Math.floor(Math.random() * 9) + 1).toFixed(0);
@@ -221,7 +223,7 @@ function problemTask(size, tens, explicit, lang) {
               object +
               " " +
               name +
-              " has?\n\n";
+              " has?";
           }
         }
         if (size > 4) {
@@ -304,9 +306,12 @@ function problemModel(size, tens, explicit) {
   function taskObject(size, tens, explicit, lang){
 
     taskJSON = {}
-    
-    taskArray = problemTask(size, tens, explicit, lang)
-
+    if(lang=='en'){
+        taskArray = problemTask(size, tens, explicit)
+    }
+    if(lang=='pt'){
+        taskArray = problemPT.problemTask(size,tens, explicit)
+    }
     model = problemModel(size, tens, explicit)
 
     taskJSON['model'] = model;

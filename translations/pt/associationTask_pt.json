@@ -1,5 +1,5 @@
 {
-    "instructions" : "Por favor, indique, com uma linha, quais elementos da esquerda \nfazem par com os da direita.",
+    "instructions" : "Por favor, encontre e faça associações em pares, começando pelos elementos do lado esquerdo.",
 
     "note" : "* Imagens do banco de dados IPNP nomeação de figuras (http://crl.ucsd.edu/experiments/ipnp/method/getpics/getpics.html)"
 }

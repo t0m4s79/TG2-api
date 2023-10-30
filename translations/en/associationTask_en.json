@@ -1,5 +1,5 @@
 {
-    "instructions" : "Please find the correct pairwise associations between columns.",
+    "instructions" : "Please find and make pairwise associations, starting with the elements on the left side.",
 
     "note" : "* Images from the IPNP picture naming database (http://crl.ucsd.edu/experiments/ipnp/method/getpics/getpics.html)"
 }

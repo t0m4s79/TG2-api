@@ -93,8 +93,8 @@
         "A praia está cheia de gente?"
     ],
   
-    "instructions_img" : "Por favor, observar com atenção a imagem que se segue. Depois, \nfaça uma pausa de um minuto e responda às questões sem consultar \na imagem.",
+    "instructions_img" : "Por favor, observe com atenção a imagem que se segue. Depois espere um minuto e indique se as frases acerca da imagem são verdadeiras ou falsas.",
 
-    "instructions_text" : "Por favor, leia com atenção a história que se segue. Depois, \nfaça uma pausa de um minuto e responda às questões sem consultar \no texto."
+    "instructions_text" : "Por favor, leia com atenção a história que se segue. Depois espere um minuto e indique se as frases sobre a história são verdadeiras ou falsas."
     
 }

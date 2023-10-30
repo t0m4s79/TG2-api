@@ -1,5 +1,5 @@
 {
-    "instructions" : "Please group the following images by categories.",
+    "instructions" : "Please select the appropriate category for each image." ,
 
     "note" : "* Images from the IPNP picture naming database (http://crl.ucsd.edu/experiments/ipnp/method/getpics/getpics.html)"
 }

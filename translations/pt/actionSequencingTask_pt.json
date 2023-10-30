@@ -103,10 +103,10 @@
                 "Vestir a roupa interior.",
                 "Vestir as calças e a camisola.",
                 "Calçar as meias.",
-                "PCalçar os sapatos.",
+                "Calçar os sapatos.",
                 "Vestir o casaco."
             ]
         }
     ],
-    "instructions": "Por favor, indique a ordem pela qual os passos que se seguem\n devem ser executados."
+    "instructions": "Por favor, crie associações entre os passos e seus números de ordem para indicar a sequência na qual os seguintes passos devem ser executados."
 }

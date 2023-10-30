@@ -2,24 +2,26 @@ const fs = require('fs');
 const path = require('path');
 const { nanoid } = require('nanoid');
 
-function saveDataToFile(data, taskType) {
-    // Define the target directory for the task type
-    const taskTypeDirectory = path.join(__dirname, 'savedData', taskType);
+async function saveDataToFile(data, taskType) {
+    try {
+        const taskTypeDirectory = path.join(__dirname, 'savedData', taskType);
 
-    // Create the directory if it doesn't exist
-    if (!fs.existsSync(taskTypeDirectory)) {
-        fs.mkdirSync(taskTypeDirectory, { recursive: true });
+        if (!fs.existsSync(taskTypeDirectory)) {
+            fs.mkdirSync(taskTypeDirectory, { recursive: true });
+        }
+
+        const uniqueID = nanoid();
+        const filePath = path.join(taskTypeDirectory, `${uniqueID}.json`);
+
+        const jsonData = JSON.stringify(data, null, 2);
+        
+        await fs.promises.writeFile(filePath, jsonData); // Asynchronous write operation
+
+        return { success: true, message: 'Data saved successfully' };
+    } catch (error) {
+        console.error(`Error saving data: ${error}`);
+        return { success: false, message: 'Failed to save data' };
     }
-
-    // Generate a unique ID for the data submission
-    const uniqueID = nanoid();
-
-    // Define the file path with the unique ID as the file name
-    const filePath = path.join(taskTypeDirectory, `${uniqueID}.json`);
-
-    // Convert data to JSON and save it to the file
-    const jsonData = JSON.stringify(data, null, 2);
-    fs.writeFileSync(filePath, jsonData);
 }
 
 module.exports = {

@@ -92,7 +92,7 @@
         "Is the beach crowded?"
     ],
 
-    "instructions_img" : "Please observe the image for about 2 minutes. Then wait a minute \nand answer the following questions without looking at the image.",
+    "instructions_img" : "Please observe the image. Then wait a minute and please indicate whether the statements about the image are true or false.",
 
-    "instructions_text" : "Please read and pay attention to the following story. Then wait a minute \nand answer the following questions without looking at the text."
+    "instructions_text" : "Please read and pay attention to the following story. Then wait a minute and please indicate whether the statements about the story are true or false."
 }
