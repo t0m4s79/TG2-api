@@ -71,7 +71,7 @@ function storiesTask(type, questions, lang) {
         img = selectedStory.story;
     }
 
-    //console.log(selectedStory)
+    console.log(selectedStory)
 
     var text = selectedStory.story
 
@@ -89,10 +89,10 @@ function storiesTask(type, questions, lang) {
             sentences_selected.splice(pointer, 1);
             i++;
         }
+        i++;
     }
 
     shuffle(sentences)
-  
 
   //console.log(text)
 
